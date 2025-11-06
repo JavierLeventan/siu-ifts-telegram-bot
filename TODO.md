@@ -1,3 +1,21 @@
+# NUEVO
+MATERIAS
+- Materias en curso
+- Historia Academicá
+- Inasistencias
+- Inscripción a materias
+
+EXAMENES
+- Inscripcion a examenes
+- Baja examen
+
+CARERRAS
+- Inscripcion a carreras
+- Baja inscripción
+
+MIS DATOS
+
+# VIEJO
 INSCRIPCIÓN A MATERIAS - EXAMENES
 - Inscribirme a materias
   - Elegir materia
